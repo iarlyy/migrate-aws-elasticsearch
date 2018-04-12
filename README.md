@@ -1,4 +1,4 @@
-# How to migrate AWS ElasticSearch from 6.0 to 6.2
+# How to Upgrade/Migrate AWS ElasticSearch from 6.0 to 6.2
 
 #### 1 - Create a S3 bucket
 
