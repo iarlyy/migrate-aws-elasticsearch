@@ -140,7 +140,7 @@ python something.py https://####NEW_ES_ENDPOINT###.eu-west-1.es.amazonaws.com/
 
 STATE should be "SUCCESS"
 
-### 8 - Restore snapshot in the new domain
+#### 8 - Restore snapshot in the new domain
 
 Delete all indices first
 ```
